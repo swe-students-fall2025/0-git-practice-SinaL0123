@@ -8,3 +8,7 @@ A website I found interesting that related to software engineering is [W3Schools
 What I find interesting about W3Schools is how simple and hands-on it makes learning web development. The tutorials are short and easy to follow, and the “Try It Yourself” editor is really useful because I can test code right away without setting anything up. It feels less intimidating compared to official documentation and helps me focus on practicing instead of getting stuck on details.
 
 I also think it’s interesting how the site explains things in a very direct way. It doesn’t go super deep, but that actually makes it easier for beginners or for quick review. For me, it feels more like a learning tool than a reference book, and that balance between simplicity and usefulness is what makes it stand out.
+
+## YilinWu's Comment
+I also think this website is very useful because it shows real-world practices in software engineering.  
+*(Added by YilinWu)*
