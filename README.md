@@ -12,3 +12,7 @@ I also think it’s interesting how the site explains things in a very direct wa
 ## YilinWu's Comment
 I also think this website is very useful because it shows real-world practices in software engineering.  
 *(Added by YilinWu)*
+
+## HanqiGui's Comment
+Fantastic! I learned my python and java through this website and I think it is very useful. I like how this website guide you to complete each branch which is really understandable.
+*(Added by Hanqi Gui)*
